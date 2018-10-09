@@ -1,0 +1,14 @@
+{
+  "name": "learn-rxjs",
+  "version": "1.0.0",
+  "description": "Learn rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^6.0.0"
+  }
+}
